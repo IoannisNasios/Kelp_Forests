@@ -26,8 +26,8 @@ trained_weights = 'trained_weights/' # meaningful only when RETRAIN=False
 
 
 # directory for prediction probabilities 
-test_preds = 'test_preds/'
-# create_dir(test_preds)
+test_preds_dir = 'test_preds/'
+# create_dir(test_preds_dir)
 
 test_predmask_path='test_kelp/'
 # create_dir(test_predmask_path)
