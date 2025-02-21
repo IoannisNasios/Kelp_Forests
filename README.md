@@ -2,6 +2,7 @@
 
 <img src="assets/kelp-canopy-1_cropped2.jpg" alt="kelp-canopy" />
 
+<br />  
 
 
 ## General
@@ -89,4 +90,27 @@ used to replicate an alternative solution, scoring as described/proposed solutio
 To generate this solution after running this notebook too, uncomment and run 
 the last cell in ensemble-postprocess-submission.ipynb.  
 
+<br /> 
+
+## Citing This Work    
+**This code has been used in the research paper "Enhancing kelp forest detection in remote sensing images using crowdsourced labels with Mixed Vision Transformers and ConvNeXt segmentation models". If you find this code useful, please consider citing it.**  
+**This reasearch was published by [International Journal of Remote Sensing](https://doi.org/10.1080/01431161.2024.2448307) and It's preprint can be found on [arxiv](https://arxiv.org/abs/2501.14001).**  
+
+If you use this repository in your research, please cite the following paper:
+
+BibTeX:
+```bibtex
+@article{nasios2025enhancing,
+  author = {Ioannis Nasios},
+  title = {Enhancing kelp forest detection in remote sensing images using crowdsourced labels with Mixed Vision Transformers and ConvNeXt segmentation models},
+  journal = {International Journal of Remote Sensing},
+  year = {2025},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/01431161.2024.2448307},
+}
+```
+
+
+
+<br />  
 
